@@ -1,0 +1,5 @@
+# lineral_regression_for_one_dimension_for_demonstration
+lineral_regression_for_one_dimension_for_demonstration
+
+just for fun.
+a very simple exercise on lineral regression
